@@ -5,13 +5,13 @@
 </div>
 
 <br><br><br><br>
-<h1><center> Olá, eu sou Allysr!</center></h1>
+<h1> Olá, eu sou Allysr!</h1>
 <br> Comecei a programar em maio de 2021, estou me aventurando no Front-end e brincando de desenhar no CSS. Atualmente estou estudando JavaScrip!
 
  <div>
   <h1></h1>
   <a href="https://github.com/allysr">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysr&layout=compact&langs_count=16&theme=dracula"/>
+  <img  height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysr&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
   
