@@ -1,7 +1,9 @@
-
+<div style="display: inline_block"><br>
+   <img align="center" height="40em" width="700em" alt="allysrz" src="https://i.ibb.co/zhrXdWS/pixil-frame-0-2.png">
+</div>
 
 <div style="display: inline_block"><br>
-   <img align="left" height="400em"  alt="allysrz" src="https://s6.gifyu.com/images/pixil-gif-drawing33a2dc19fe4d9bc5.gif">
+   <img align="left" height="200em"  alt="allysrz" src="https://s6.gifyu.com/images/pixil-gif-drawing33a2dc19fe4d9bc5.gif">
 </div>
 
 <br><br><br><br>
