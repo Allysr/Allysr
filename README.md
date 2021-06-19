@@ -7,7 +7,9 @@
 
 <div>
    <p align="center">
-   <img height="250em"  alt="allysrz" src="https://i.ibb.co/y6ykQ9c/pixil-frame-0-6.png">
+   <img height="250em"  alt="allysrz" src="https://i.ibb.co/bsYjBy6/ezgif-com-gif-maker.gif">
+   <br> Comecei a programar em maio de 2021, estou me aventurando no 
+   <br> Front-end e brincando de desenhar no CSS. Atualmente estou estudando JavaScrip!
    </p>
 </div>
 
