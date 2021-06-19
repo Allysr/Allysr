@@ -1,5 +1,5 @@
 <div style="display: inline_block"><br>
-   <img align="center" height="40em" width="700em" alt="allysrz" src="https://i.ibb.co/zhrXdWS/pixil-frame-0-2.png">
+   <img align="left" height="45em" width="1100em" alt="allysrz" src="https://i.ibb.co/HpHZX8j/pixil-frame-0-3.png">
 </div>
 
 <div style="display: inline_block"><br>
