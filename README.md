@@ -1,9 +1,10 @@
 <div>
-   <img align="left" height="50em" width="1000em" alt="allysr" src="https://i.ibb.co/tJqNK0N/pixil-frame-0-4.png">
    <p align="center">
    <img src="https://i.ibb.co/2szgQvp/pixil-frame-0-5.png"/>
    </p>
 </div>
+
+ <img src="https://i.ibb.co/y6ykQ9c/pixil-frame-0-6.png"/>
 
 
 <div style="display: inline_block"><br>
