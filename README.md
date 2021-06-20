@@ -8,18 +8,19 @@
 <!--Pixel Image-->
 <div>
    <p align="center">
-   <img height="250em"  alt="allysrz" src="https://i.ibb.co/bsYjBy6/ezgif-com-gif-maker.gif">
+   <img height="300em"  alt="allysrz" src="https://i.ibb.co/8czKD39/ezgif-com-gif-maker-1.gif"/>
+   <img height="300em" alt="cafe" src="https://i.ibb.co/dJCB9JW/pixil-frame-0.png"/>
    </p>
+   
 </div>
-
-<h1></h1>
 
 <!--Text-->
 <div>
    <p align="center">
-   <br> - Programando desde maio de 2021    - Café   - Gatos  - Ler
+
    </p>
 </div>
+
 
 <h1></h1>
 
