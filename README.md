@@ -8,7 +8,7 @@
 <!--Pixel Image-->
 <div>
    <p align="center">
-   <img height="400em"  alt="allysrz" src="https://i.ibb.co/tm3fwGt/ezgif-com-gif-maker.gif"/>
+   <img height="400em"  alt="allysrz" src="https://i.ibb.co/d57d92H/pixiegirl.gif"/>
    <img height="350em" alt="cafe" src="https://i.ibb.co/dJCB9JW/pixil-frame-0.png"/>
    </p>
    
