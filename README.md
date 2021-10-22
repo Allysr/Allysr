@@ -8,13 +8,14 @@
 <!--Pixel Image-->
 
 <div>
-   <p align="middle">
+   <h3 align="middle">
     Hello World, I'm Alicia!
-   </p>
+   </h3>
    
--   📍 Currently studying Javascript and Python
-- Student marketing
-- 💻 
+-  🖥 Currently studying Javascript and Python
+-  ✨ Marketing student
+-  🎓 Technology Student
+-  🎮 I'm a Nintendo fan
 - 🌈 Farm game player
 
    
