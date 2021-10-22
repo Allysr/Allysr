@@ -38,8 +38,8 @@
 <div>
   <p align="center">
   <a href="https://github.com/allysr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=allysr&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysr&layout=compact&langs_count=16&theme=kacho_ga"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=allysr&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysr&layout=compact&langs_count=16&theme=buefy"/>
 </div>
 
   
