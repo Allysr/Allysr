@@ -1,16 +1,20 @@
 <!--Name Image-->
 <div>
-   <p align="center">
-   <img alt="allysrz" src="https://i.ibb.co/2szgQvp/pixil-frame-0-5.png"/>
-   </p>
+   <h1 align="middle">- ALLYSR -</h1>
 </div>
 
 <!--Pixel Image-->
+
 <div>
-   <p align="center">
-   <img height="300em"  alt="allysrz" src="https://i.ibb.co/pn0mtxM/girl.gif"/>
-   <img height="300em" alt="cafe" src="https://i.ibb.co/dJCB9JW/pixil-frame-0.png"/>
+   <p align="middle">
+    Hello World, I'm Alicia!
    </p>
+   
+-   📍 Currently studying Javascript and Python
+- Student marketing
+- 💻 
+- 🌈 Farm game player
+
    
 </div>
 
@@ -24,9 +28,9 @@
 <!--Icons-->
 <div>
    <p align="center">
-    <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Js" height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="HTML" height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="CSS" height="20"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       
    </p>
 </div>
@@ -42,4 +46,5 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysr&layout=compact&langs_count=16&theme=buefy"/>
 </div>
 
+     
   
