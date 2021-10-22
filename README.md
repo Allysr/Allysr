@@ -13,7 +13,7 @@
    </h3>
    
 -  🖥 Currently studying Javascript and Python
--  ✨ Marketing student
+-  ✨ Marketing Student
 -  🎓 Technology Student
 -  🎮 I'm a Nintendo fan
 - 🌈 Farm game player
