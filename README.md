@@ -3,7 +3,7 @@
 <p align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=24&color=8960F7&lines=I'm+a+Front-end+Developer;I'm+a+UX%2FUI+Designer"(https://git.io/typing-svg)>
  </p>
- <a href="https://www.linkedin.com/in/aliciarsz/"<img src="https://images2.imgbox.com/b3/96/jopB7bIw_o.png"/></a>
+ <a href="https://www.linkedin.com/in/aliciarsz/"><img src="https://images2.imgbox.com/b3/96/jopB7bIw_o.png"/></a>
  
 <h1></h1>
  
