@@ -1,21 +1,19 @@
 
 <!--Name-->
-<div>
-   <h1 align="middle">- ALLYSR -</h1>
-</div>
+<p align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=%b61ed3&size=28&center=true&vCenter=true&lines=Full-Stack+Developer;UX%2FUI+Designer"(https://git.io/typing-svg)>
+ </p>
+
 
 <!--text-->
 
 <div>
-   <h3 align="middle">
-    Hello World, I'm Alicia!
-   </h3>
    
--  🖥 Currently studying Javascript and Python
--  ✨ Marketing Student
--  🎓 Technology Student
--  🎮 I'm a Nintendo fan
-- 🌱 Farm game player
+-  🖥 Currently studying Javascript;
+-  ✨ Marketing Student;
+-  🎓 Technology Student;
+-  🎮 I'm a Nintendo fan;
+-  🌱 Farm game player.
 
    
 </div>
