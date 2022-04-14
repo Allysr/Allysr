@@ -1,4 +1,3 @@
-![alt text](./wavet.svg)
 
 <!--Name-->
 <div>
@@ -36,19 +35,11 @@
 
 <h1></h1>
 
-<!--Stats-->  
-<div>
-  <p align="center">
-  <a href="https://github.com/allysr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=allysr&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allysr&layout=compact&langs_count=16&theme=omni"/>
-</div>
      
          
    
 
      
      
-![alt text](./waveb.svg)
      
   
