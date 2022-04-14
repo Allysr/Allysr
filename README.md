@@ -1,9 +1,11 @@
 
 <!--Name-->
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%b61ed3&size=28&center=true&vCenter=true&lines=Full-Stack+Developer;UX%2FUI+Designer"(https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=24&color=8960F7&lines=Hello+World%2C+I'm+a+Front-end+Developer;Hello+World%2C+I'm+a+UX%2FUI+Designer"(https://git.io/typing-svg)>
  </p>
-
+ 
+<h1></h1>
+ 
 
 <!--text-->
 
