@@ -3,8 +3,11 @@
 <p align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=24&color=8960F7&lines=I'm+a+Front-end+Developer;I'm+a+UX%2FUI+Designer"(https://git.io/typing-svg)>
  </p>
+ <div align="center">
+    
  <a href="https://www.linkedin.com/in/aliciarsz/"><img src="https://images2.imgbox.com/2a/ad/fGhzzfbe_o.png"/></a>
-  <a href="https://www.figma.com/@allysr"><img src="https://images2.imgbox.com/e2/6f/oTExcKWi_o.png"/></a>
+ <a href="https://www.figma.com/@allysr"><img src="https://images2.imgbox.com/e2/6f/oTExcKWi_o.png"/></a>
+ </div>
 
  
 <h1></h1>
