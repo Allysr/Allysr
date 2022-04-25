@@ -5,8 +5,12 @@
  </p>
  
  <div align="center"> 
- <a href="https://www.linkedin.com/in/aliciarsz/"><img src="https://images2.imgbox.com/dd/d6/ykKKxKx4_o.png"/></a>
- <a href="https://www.figma.com/@allysr"><img src="https://images2.imgbox.com/c7/94/sDgj6RRf_o.png"/></a>
+ <a href="https://www.linkedin.com/in/aliciarsz/"><img src="https://images2.imgbox.com/13/fd/k3Q3WVrb_o.png"/></a>
+ <a href="#"><img src="https://images2.imgbox.com/6f/02/fC2mHUwi_o.png"/></a>
+ <a href="https://codepen.io/allysr"><img src="https://images2.imgbox.com/09/1b/IcNvJqD3_o.png"/></a>
+ <a href="https://www.figma.com/@allysr"><img src="https://images2.imgbox.com/cd/31/fMCSG6Lo_o.png"/></a>
+
+
  </div>
 
  
