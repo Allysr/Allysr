@@ -21,7 +21,7 @@
 
 <div>
    
--  🖥 Currently studying Javascript;
+-  🖥 Currently studying React;
 -  ✨ Marketing Student;
 -  🎓 Technology Student;
 -  🎮 I'm a Nintendo fan;
