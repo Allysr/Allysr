@@ -5,8 +5,8 @@
  </p>
  
  <div align="center"> 
- <a href="https://www.linkedin.com/in/aliciarsz/"><img src="https://images2.imgbox.com/2a/ad/fGhzzfbe_o.png"/></a>
- <a href="https://www.figma.com/@allysr"><img src="https://images2.imgbox.com/e2/6f/oTExcKWi_o.png"/></a>
+ <a href="https://www.linkedin.com/in/aliciarsz/"><img src="https://images2.imgbox.com/dd/d6/ykKKxKx4_o.png"/></a>
+ <a href="https://www.figma.com/@allysr"><img src="https://images2.imgbox.com/c7/94/sDgj6RRf_o.png"/></a>
  </div>
 
  
