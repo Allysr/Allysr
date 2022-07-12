@@ -1,7 +1,7 @@
 
 <!--Name-->
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=5F8D42&lines=Hello,+I'm+a+Front-end+developer;Hello,+I'm+a+UX%2FUI+designer"(https://git.io/typing-svg)>
+    <img src="https://readme-typing-svg.herokuapp.com?color=5F8D42&lines=Hello,+I'm+a+developer"(https://git.io/typing-svg)>
  </p>
  
  <div align="center"> 
