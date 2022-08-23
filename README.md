@@ -20,10 +20,10 @@
 
    
 ```diff
-✨ Marketing Student;
-🎓 Technology Student;
-🎮 I'm a Nintendo fan;
-🌱 Farm game player.
+✨ Marketing Student
+🎓 Technology Student
+🎮 I'm a Nintendo fan
+🌱 Farm game player
 
 ```
    
