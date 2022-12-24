@@ -1,11 +1,9 @@
 
 <!--Name-->
 <p align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=5F8D42&lines=Hello,+I'm+a+developer"(https://git.io/typing-svg)>
- </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=5F8D42&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+my+name+is+Alicia!">
+</p>
  
-
- </div>
 
  
 <h1></h1>
