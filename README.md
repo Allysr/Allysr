@@ -4,11 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=5F8D42&lines=Hello,+I'm+a+developer"(https://git.io/typing-svg)>
  </p>
  
- <div align="center"> 
- <a href="https://www.linkedin.com/in/aliciarsz/"><img src="https://images2.imgbox.com/13/fd/k3Q3WVrb_o.png"/></a>
- <a href="#"><img src="https://images2.imgbox.com/6f/02/fC2mHUwi_o.png"/></a>
-
-
 
  </div>
 
