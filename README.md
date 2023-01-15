@@ -4,10 +4,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=5F8D42&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile!">
 </p>
 
+ 
+
 <!--text--> 
 ```diff   
-	✨ nome: "Alicia";
-	🎓 estuda: ["Marketing", "Análise e Desenvolvimento de Sistemas"];
+class Allysr {
+  nome: "Alicia",
+  estuda: [
+    "Marketing", 
+    "Análise e Desenvolvimento de Sistemas"
+  ],
+};
 ```
 <br>
 
