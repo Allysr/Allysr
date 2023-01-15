@@ -13,7 +13,7 @@ class Allysr {
   estuda: [
     "Marketing", 
     "Análise e Desenvolvimento de Sistemas"
-  ],
+  ]
 };
 ```
 <br>
