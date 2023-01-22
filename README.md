@@ -29,6 +29,7 @@ class Allysr {
     <img alt="Typescript" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">&nbsp
     <img alt="Postgresql" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">&nbsp
     <img alt="Mongodb" height="25"  src="https://devkico.itexto.com.br/wp-content/uploads/2013/10/mongodb-leaf.png">&nbsp
+    <img alt="Cypress" height="25"  src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_10f53e90961b98df0191922f13efd135/cypress.png">&nbsp
     <img alt="figma" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">&nbsp
 </div><br>
 
