@@ -21,7 +21,7 @@ class Allysr {
 
 <!--Stacks-->
 <div align="center">
-    <h4>Linguagens de programação:</h4>
+    <h4>Aprendendo:</h4>
     <img alt="Javascript" height="25"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp
     <img alt="Typescript" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">&nbsp
     <img alt="React" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">&nbsp
