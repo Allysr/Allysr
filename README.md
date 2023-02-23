@@ -21,18 +21,17 @@ class Allysr {
 
 <!--Stacks-->
 <div align="center">
-    <h3>Aprendendo:</h3>
-    <img alt="HTML" height="25"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp
-    <img alt="CSS" height="25"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp
-    <img alt="Sass" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">&nbsp
+    <h5>Linguagens de programação:</h5>
     <img alt="Javascript" height="25"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp
     <img alt="Typescript" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">&nbsp
+    <img alt="React" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">&nbsp
+    <img alt="Python" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">&nbsp
+    <img alt="Java" height="25"  src="https://cdn-icons-png.flaticon.com/512/226/226777.png">&nbsp
     <img alt="Postgresql" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">&nbsp
     <img alt="Mongodb" height="25"  src="https://devkico.itexto.com.br/wp-content/uploads/2013/10/mongodb-leaf.png">&nbsp
     <img alt="Cypress" height="25"  src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_10f53e90961b98df0191922f13efd135/cypress.png">&nbsp
     <img alt="figma" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">&nbsp
-</div><br>
-
+</div>
 <h1></h1>
 
 <!--Contact-->
