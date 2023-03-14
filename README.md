@@ -30,6 +30,7 @@ class Allysr {
     <img alt="Postgresql" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">&nbsp
     <img alt="Mongodb" height="25"  src="https://devkico.itexto.com.br/wp-content/uploads/2013/10/mongodb-leaf.png">&nbsp
     <img alt="Cypress" height="25"  src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_10f53e90961b98df0191922f13efd135/cypress.png">&nbsp
+    <img alt="Selenium" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">&nbsp
     <img alt="figma" height="25"  src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">&nbsp
 </div>
 <h1></h1>
