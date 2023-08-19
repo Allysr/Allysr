@@ -7,9 +7,9 @@
  
 
 <!--text--> 
-- 🔭 Sou Estagiária de QA
+- 🔭 Estagiária de QA
 - 🌱 Estou Estudando Testes Automatizados em Java
-- 👩‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas e Marketing
+- 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas e Marketing
   
 
 <br>
