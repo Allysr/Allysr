@@ -8,7 +8,7 @@
 
 <!--text--> 
 - 🔭 Estagiária de QA
-- 🌱 Estou Estudando Testes Automatizados em Java
+- 🌱 Estudando Testes Automatizados em Java
 - 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas e Marketing
   
 
