@@ -39,9 +39,6 @@
 	  <a href="mailto: alicia.rsouza@gmail.com" target="_blank">
 	    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alicia.rsouza@gmail.com">
 	  </a>  
-	  <a href="https://codepen.io/allysr" target="_blank">
-	    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="https://codepen.io/allysr">
-	  </a>
 	  <a target="_blank" href="https://www.figma.com/@allysr" target="_blank">
 	    <img src="https://img.shields.io/badge/Figma-EE82EE?style=for-the-badge&logo=figma&logoColor=white" alt="https://www.linkedin.com/in/aliciarsz/">
 	  </a>
