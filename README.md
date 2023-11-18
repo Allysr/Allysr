@@ -8,7 +8,7 @@
 
 <!--text--> 
 - 💻 Atualmente trabalhando como Analista de testes jr;
-- 📘 Estudando Testes Automatizados em Java;
+- 📑 Estudando Testes Automatizados em Java;
 - 👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas e Marketing.
   
 
