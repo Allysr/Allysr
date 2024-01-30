@@ -7,7 +7,7 @@
  
 
 <!--text--> 
-- 💻 Atualmente trabalhando como Analista de testes jr;
+- 💻 Atualmente trabalhando como Analista de testes;
 - 📑 Estudando Testes Automatizados;
 - 👩🏻‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
   
