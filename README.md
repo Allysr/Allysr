@@ -8,7 +8,7 @@
 
 <!--text--> 
 - 💻 Analista de testes;
-- 📑 Me apromorando em testes automatizados;
+- 📑 Me aprimorando em testes automatizados;
 - 👩🏻‍🎓 Análise e Desenvolvimento de Sistemas.
   
 
