@@ -1,13 +1,14 @@
 <h1>Alicia Souza
-	 <a target="_blank" href="https://www.linkedin.com/in/aliciarsz/">
-	    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aliciarsz/">
-    </a>
-    <a href="mailto: alicia.rsouza@gmail.com" target="_blank">
+	<a href="mailto: alicia.rsouza@gmail.com" target="_blank">
 	    <img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alicia.rsouza@gmail.com">
-    </a>  
-    <a target="_blank" href="https://www.figma.com/@allysr" target="_blank">
+    </a> 
+     <a target="_blank" href="https://www.figma.com/@allysr" target="_blank">
         <img align="right" src="https://img.shields.io/badge/Figma-EE82EE?style=for-the-badge&logo=figma&logoColor=white" alt="https://www.linkedin.com/in/aliciarsz/">
     </a>
+    <a target="_blank" href="https://www.linkedin.com/in/aliciarsz/">
+	    <img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aliciarsz/">
+    </a>
+     
 </h1> 
 
 <br>
