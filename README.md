@@ -12,20 +12,15 @@
     </a>	
 </h1> 
     <div align="center">
-      <a href="https://github.com/allysr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=CD5C5C&center=true&vCenter=true&&repeat=true&random=false&width=435&lines=Analista+de+Testes;Analista+de+Testes+Automatizados;QE;QA" alt="QA" />
+	<h3>Analista de testes automatizados  </h3>
       </a>  
     </div>
     <br>
-    <div>
-    	    <img align="left" src="https://i.imgur.com/K4CmFKC.png" width="150px"> 
+    <div >
+    	    <img align="left" src="https://i.imgur.com/K4CmFKC.png" width="130px"> 
 	    <p>
-		Sou Analista de Testes com foco na qualidade de software! Com experiência em testes manuais e automatizados, iniciei minha jornada na área aplicando boas práticas 
-	    para garantir a excelência em cada entrega.  
+		 Atuo com testes manuais e automatizados, sou dedicada a garantir a qualidade e a confiabilidade das entregas. Meu objetivo é aprimorar minhas habilidades em automação, contribuindo cada vez mais para a otimização dos processos de teste e para a eficiência das aplicações. <br> Estou em constante busca de conhecimento para evoluir minhas práticas, tanto em testes funcionais quanto em testes não funcionais, visando oferecer uma melhor experiência ao usuário.
 	    </p>
-	    <p>
-		Com vivência em automação de testes e participação ativa em times ágeis, estou sempre em busca de novos desafios e aprendizados. Se você procura alguém comprometida 
-	    e apaixonada por qualidade e inovação, estou pronta para colaborar com a equipe!    
-	    </p>  
     </div>
     
 <br>
