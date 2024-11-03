@@ -17,7 +17,7 @@
     </div>
     <br>
     <div >
-    	    <img align="left" src="https://i.imgur.com/K4CmFKC.png" width="120px"> 
+    	    <img align="left" src="https://i.imgur.com/6fgXRYZ.png" width="130px"> 
 	    <p>
 		 Atuo com testes manuais e automatizados, sou dedicada a garantir a qualidade e a confiabilidade das entregas. Meu objetivo é aprimorar minhas habilidades em automação, contribuindo cada vez mais para a otimização dos processos de teste e para a eficiência das aplicações. <br> Estou em constante busca de conhecimento para evoluir minhas práticas, tanto em testes funcionais quanto em testes não funcionais, visando oferecer uma melhor experiência ao usuário.
 	    </p>
