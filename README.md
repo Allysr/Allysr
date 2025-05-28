@@ -12,7 +12,7 @@
     </a>	
 </h1> 
     <div align="center">
-	<h3>Analista de testes automatizados  </h3>
+	<h3>Analista de testes automatizados  | QA </h3>
       </a>  
     </div>
     <br>
